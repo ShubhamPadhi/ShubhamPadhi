@@ -1,3 +1,5 @@
+<img src="https://github.com/ShubhamPadhi/ShubhamPadhi/blob/main/gifimage.gif" width="1000" height="400" alt="logo" />
+
 <h1 align="center">Hi 👋, I'm Shubham Padhi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
